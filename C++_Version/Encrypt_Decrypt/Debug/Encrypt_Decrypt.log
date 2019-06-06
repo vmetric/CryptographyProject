@@ -1,0 +1,5 @@
+﻿  Encrypt_Decrypt.cpp
+C:\Users\there\OneDrive\EncryptDecryptC++\Encrypt_Decrypt\Encrypt_Decrypt\Encrypt_Decrypt.cpp(114,20): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\there\OneDrive\EncryptDecryptC++\Encrypt_Decrypt\Encrypt_Decrypt\Encrypt_Decrypt.cpp(208,20): warning C4018:  '<': signed/unsigned mismatch
+  LINK : C:\Users\there\OneDrive\EncryptDecryptC++\Encrypt_Decrypt\Debug\Encrypt_Decrypt.exe not found or not built by the last incremental link; performing full link
+  Encrypt_Decrypt.vcxproj -> C:\Users\there\OneDrive\EncryptDecryptC++\Encrypt_Decrypt\Debug\Encrypt_Decrypt.exe
